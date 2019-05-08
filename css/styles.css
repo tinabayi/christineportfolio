@@ -1,0 +1,187 @@
+nav{
+  color:white;
+  background-color: black;
+  padding: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+nav a{
+  color:white;
+  margin:20px;
+}
+
+
+
+
+.first{
+  background-image:url("https://www.vactualpapers.com/web/wallpapers/0013-pexels-photo11/1920x1200.jpg");
+  background-size: cover;
+  height: 900px;;   
+}
+.one{
+  margin-left: 250px;
+  padding-top: 200px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 40px;
+  color:white;
+}
+.two{
+  margin-left: 350px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+  color: white;
+}
+.quiz{
+  display: none;
+}
+.search{
+  display: none; 
+}
+.quote{
+  display: none;  
+}
+.gallery{
+  display: none;  
+}
+.blog{
+  display: none;  
+}
+.news{
+  display: none;  
+}
+#about img{
+  border-radius: 200px;
+  margin-left: 150px;
+}
+#aboutMe{
+  padding-top: 40px; 
+}
+.about1{
+ 
+  padding-bottom: 40px;
+  padding-top: 40px;
+  font-weight: bold;
+  font-size: 27x;
+  text-decoration:underline; 
+}
+.about{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+}
+.project{
+  margin-left: 350px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+  font-weight: bold;
+  font-size: 27x;
+  text-decoration:underline;
+}
+
+
+.skills{
+  margin-left: 350px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+  font-weight: bold;
+  font-size: 27x;
+  text-decoration:underline;
+}
+.contact{
+ 
+  padding-top: 40px;
+  background-color: darkgrey;
+}
+.f1{
+  margin-left: 200px;
+}
+.touch{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-left: 600px;
+  color:white;
+  font-size: 30px;
+  font-weight: bolder;
+}
+.phone{
+  margin-left: 400px;
+  color:white;
+  font-size: 25px;
+}
+.email{
+  margin-left: 400px;
+  color:white;
+  font-size: 25px;
+  padding-bottom: 40px;
+}
+
+#quiz{
+  display: none;
+}
+#search{
+  display: none;
+}
+#quote{
+  display: none;
+}
+#news{
+  display: none;
+}
+#gallery{
+  display: none;
+}
+#blog{
+  display: none;
+}
+.clickable1{
+  font-weight: bold;
+  font-size: 15px;
+  
+}
+.clickable2{
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.clickable3{
+  font-weight: bold;
+  font-size: 15px;
+}
+.clickable4{
+  font-weight: bold;
+  font-size: 15px;
+}
+.clickable5{
+  font-weight: bold;
+  font-size: 15px;
+}
+.clickable6{
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.important{
+  background-color: whitesmoke;
+  display: inline-block;
+  margin: 7px;
+  padding: 5px 10px;
+  color:black;
+  
+  list-style: none;
+  cursor: default;
+  font-size: 1.2em;
+}
+ .a1{
+   
+  margin-left: 400px;
+  padding-bottom: 50px
+}
+.a2{
+  margin-left: 200px;
+  padding-bottom: 50px
+}
+.a3{
+  margin-left: 100px;
+  padding-bottom: 50px
+}
