@@ -134,31 +134,42 @@ nav a{
 #blog{
   display: none;
 }
-.clickable1{
+.clickable1:hover{
   font-weight: bold;
   font-size: 15px;
-  
+  background-color: #e7e7e7;
+  text-decoration: underline;
 }
-.clickable2{
+.clickable2:hover{
   font-weight: bold;
   font-size: 15px;
+  background-color: #e7e7e7;
+  text-decoration: underline;
 }
 
-.clickable3{
+.clickable3:hover{
   font-weight: bold;
   font-size: 15px;
+  background-color: #e7e7e7;
+  text-decoration: underline;
 }
-.clickable4{
+.clickable4:hover{
   font-weight: bold;
   font-size: 15px;
+  background-color: #e7e7e7;
+  text-decoration: underline;
 }
-.clickable5{
+.clickable5:hover{
   font-weight: bold;
   font-size: 15px;
+  background-color: #e7e7e7;
+  text-decoration: underline;
 }
-.clickable6{
+.clickable6:hover{
   font-weight: bold;
   font-size: 15px;
+  background-color: #e7e7e7;
+  text-decoration: underline;
 }
 
 .important{
@@ -173,15 +184,14 @@ nav a{
   font-size: 1.2em;
 }
  .a1{
-   
-  margin-left: 400px;
-  padding-bottom: 50px
-}
+  margin-left: 300px;
+  padding-bottom: 50px;
+ }
 .a2{
   margin-left: 200px;
-  padding-bottom: 50px
+  padding-bottom: 50px;
 }
 .a3{
   margin-left: 100px;
-  padding-bottom: 50px
+  padding-bottom: 50px;
 }
